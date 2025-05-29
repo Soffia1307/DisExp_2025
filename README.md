@@ -1,12 +1,12 @@
 # 📚 🌱 Facultad de Ciencias Forestales
-#📒 Curso: Diseños Experimentales enero-junio 2025
+# 📒 Curso: Diseños Experimentales enero-junio 2025
 
-##Sofia del Carmen Platas Martínez
+## Sofia del Carmen Platas Martínez
 
-##Descripción
+## Descripción
 Bienvenido al repositorio del curso Diseños Experimentales Enero-Junio 2025 del programa Ingeniero en Manejo de Recursos Naturales. Aquí encontrarás bases de datos, prácticas, laboratorios y material relacionado con el análisis estadístico de experimentos utilizando Rstudio.
 
-##Estructura del repositorio
+## Estructura del repositorio
 + **📁 Base de datos**: Conjuntos de datos utilizados en las prácticas.
 + **📁Experimento Lens culinaris**: Documentación y análisis del experimento con lentejas.
 + **📁 Laboratorios**: Laboratorios realizados durante el curso.
