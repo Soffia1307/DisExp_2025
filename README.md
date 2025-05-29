@@ -30,5 +30,4 @@ Bienvenido al repositorio del curso Diseños Experimentales Enero-Junio 2025 del
 Puedes contactarme a través de mi correo electronico sofia.platasm@uanl.edu.mx
 
 ## Grafica de contribuciones
-
-
+![Image](https://github.com/user-attachments/assets/80929fca-8ded-44f2-8cc3-4eb0e283e96e)
