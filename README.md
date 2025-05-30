@@ -11,6 +11,7 @@ Bienvenido al repositorio del curso Diseños Experimentales Enero-Junio 2025 del
 + **📁Experimento Lens culinaris**: Documentación y análisis del experimento con lentejas.
 + **📁 Laboratorios**: Laboratorios realizados durante el curso.
 + **📁 Practicas**: Ejercicios realizados en el curso.
++ **📁 Examen**: Examen final del curso
 
 
 ## Contenido 🗃️
@@ -24,7 +25,8 @@ Bienvenido al repositorio del curso Diseños Experimentales Enero-Junio 2025 del
 - 📅 09/04/2025: Práctica prueba de t de dos muestras dependientes y de una sola muestra
 - 📅 07/05/2025: Práctica Analisis de Varianza
 - 📅 12/05/2025: Analisis del experimento Lens culinaris
-- 📅 27/05/2025: Analisis del experimento velocidad de internet
+- 📅 21/05/2025: Analisis del experimento velocidad de internet
+- 📅 30/05/2025: Examen final del curso
 
 ## 📬 Dudas o sugerencias
 Puedes contactarme a través de mi correo electronico sofia.platasm@uanl.edu.mx
