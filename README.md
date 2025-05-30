@@ -8,10 +8,10 @@ Bienvenido al repositorio del curso Diseños Experimentales Enero-Junio 2025 del
 
 ## Estructura del repositorio 🗃️💫
 + **📁 Base de datos**: Conjuntos de datos utilizados en las prácticas.
-+ **📁Experimento Lens culinaris**: Documentación y análisis del experimento con lentejas.
++ **📁 Examen**: Examen final del curso
++ **📁 Experimento Lens culinaris**: Documentación y análisis del experimento con lentejas.
 + **📁 Laboratorios**: Laboratorios realizados durante el curso.
 + **📁 Practicas**: Ejercicios realizados en el curso.
-+ **📁 Examen**: Examen final del curso
 
 
 ## Contenido 🗃️
